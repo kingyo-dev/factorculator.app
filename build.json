@@ -1,0 +1,20 @@
+{
+    "android": {
+        "debug": {
+            "keystore": "./factorculator.keystore",
+            "storePassword": "123123",
+            "alias": "factorculator",
+            "password" : "123123",
+            "keystoreType": "jks",
+            "packageType": "apk"
+        },
+        "release": {
+            "keystore": "./factorculator.keystore",
+            "storePassword": "123123",
+            "alias": "factorculator",
+            "password" : "123123",
+            "keystoreType": "jks",
+            "packageType": "apk"
+        }
+    }
+}
